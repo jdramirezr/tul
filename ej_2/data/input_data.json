@@ -1,0 +1,65 @@
+[
+  {
+    "user_id": 81,
+    "product_name": "ferretero",
+    "input_data": {
+      "last_bought": [1290384, 489483, 60573],
+      "bought_mix": false,
+      "level": 4
+    }
+  },
+  {
+    "user_id": 748,
+    "product_name": "ferretero",
+    "input_data": {
+      "last_bought": [9845782, 984742, 8985857, 748382],
+      "bought_mix": true,
+      "level": 2
+    }
+  },
+  {
+    "user_id": 634,
+    "product_name": "ferretero",
+    "input_data": {
+      "last_bought": [797843, 38234, 873642, 74834],
+      "bought_mix": false,
+      "level": 2
+    }
+  },
+  {
+    "user_id": 848,
+    "product_name": "ferretero",
+    "input_data": {
+      "last_bought": [989857, 72835, 16273, 74832],
+      "bought_mix": true,
+      "level": 4
+    }
+  },
+  {
+    "user_id": 19,
+    "product_name": "tuler",
+    "input_data": {
+      "months_worked": 4,
+      "salary": 1000000,
+      "fees": 3
+    }
+  },
+  {
+    "user_id": 273,
+    "product_name": "tuler",
+    "input_data": {
+      "months_worked": 1,
+      "salary": 1858730,
+      "fees": 3
+    }
+  },
+  {
+    "user_id": 95,
+    "product_name": "tuler",
+    "input_data": {
+      "months_worked": 5,
+      "salary": 2483000,
+      "fees": 5
+    }
+  }
+]
