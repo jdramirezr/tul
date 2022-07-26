@@ -9,13 +9,3 @@ services:
     ports:
       - 8000:8000
     container_name: backend
-
-  frontend:
-    build: ./frontend
-    command: npm start
-    volumes:
-      - ./frontend:/app
-      - /app/node_modules
-
-    ports:
-      - "3000:3000"
