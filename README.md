@@ -2,21 +2,15 @@
 
 **For run the exercises:** 
 
-**docker-compose** 
+**Running with docker-compose** 
 ```
 docker-compose build	
 docker-compose up
 url => http://0.0.0.0:8000/docs
 ```
 
-**docker** 
-```
-docker build -t backend .
-docker run -p 8000:8000 backend 
-url => http://0.0.0.0:8000/docs
-```
 
-**virtualenv** 
+**Running with virtualenv** 
 ```
 pip install virtualenv
 virtualenv venv
